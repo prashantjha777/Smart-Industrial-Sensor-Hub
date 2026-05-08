@@ -1,0 +1,2 @@
+../Core/Src/app_freertos.c:16:6:StartSensorHubTask	40	static
+../Core/Src/app_freertos.c:39:6:StartLoggerTask	88	static
